@@ -950,7 +950,6 @@
     - OreSmelting
     - RGlassSmelting
     - AdvancedSmelting
-  - type: OreSiloClient #Gives silo access to ore holding
 
 - type: entity
   parent: BaseLathe
